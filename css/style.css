@@ -1,0 +1,99 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+.say {
+    height: 800px;
+    width: 470px;
+    margin: auto;
+    border-radius: 10px;
+   
+    background-color: rgb(255, 255, 255);
+   
+}
+
+
+
+.w {
+    text-align: center;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+span {
+    margin-left: 60px;
+}
+
+input {
+    margin-left:60px;
+    width:350px;
+    height:60px;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    outline:none;
+}
+
+.comment {
+    margin-left: 60px;
+    width: 350px;
+    height: 120px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+}
+
+button {
+    border:1px solid;
+    color:white;
+    height:40px;
+    border-radius:40px;
+    width:150px;
+    margin-left:170px;
+    margin-top:40px;
+    background:linear-gradient(to left, rgb(164, 26, 136), blue, rgb(164, 26, 136));
+}
+
+.e{
+    margin-left:60px;
+    width:360px;
+    height:30px;
+    border: 1px solid black;
+}
+
+
+.ozbek{
+    background-color: rgb(255, 255, 255);
+}
+.ros{
+    background-color: red;
+}
+.qoraqalpoq{
+    background-color: yellow;
+    
+}
+.ang{
+    background-color: rgb(43, 255, 0);
+}
+
+    
+
+
